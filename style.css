@@ -105,7 +105,7 @@ margin-left: 50px;
     float: right;
     margin-top: 10px;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
     nav {
       background-color: lightgreen;
     }
